@@ -1,0 +1,26 @@
+body{
+    background-color: #24353ff6;
+    
+    
+    }
+    .mo{
+    font-size: larger;
+    color: #fff;
+    }
+    .nor{
+    background-color: #233540;
+    box-shadow: 5px 2px 40px 9px #24353F;
+    
+    }
+    .ko{
+    
+        background-color:#24353F;
+        color: #17A2B8;
+        font-size: xx-large;
+        position: absolute;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%);
+        width: 80%;
+        height: 40%;
+    }

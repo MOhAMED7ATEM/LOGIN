@@ -1,0 +1,37 @@
+.domo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #24353ff3;
+}
+.sm{
+    background-color: #24353F;
+
+    width: 70%;
+    height: 80vh;
+padding: 40px;
+
+box-shadow: 5px 2px 40px 9px #24353F;
+/* transform: translate(0%); */
+}
+.sm h1{
+    color: aqua;
+
+}
+.caption a{
+    text-decoration: none;
+    color: #fff;
+transition: all 1s;
+}
+.cap{
+    color: #fff;
+}
+.caption a:hover{
+    text-decoration: underline;
+}
+.NOOl{
+    color: rgba(255, 0, 0, 0.729);
+    font-size: medium;
+}
